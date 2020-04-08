@@ -1,7 +1,7 @@
 local s = {"hameno"}
-for index, Name in ipairs(s) do
-    if value == "HAMENO" then
-    print(Name .. " found at Name " .. name)
-    return Name
+for index, value in ipairs(s) do
+    if Value == "HAMENO" then
+    print(Name .. " found at index " .. name)
+    return index
     end
  end
