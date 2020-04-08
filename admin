@@ -1,5 +1,7 @@
-local s = {
-    "pocco666",
-    "hameno",
-	  "tHecRaZYbOi2390"
-}
+local s = {"hameno"}
+for index, Name in ipairs(s) do
+    if value == "HAMENO" then
+    print(Name .. " found at Name " .. name)
+    return Name
+    end
+ end
